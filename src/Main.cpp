@@ -1,8 +1,8 @@
 /**
  * Main.cpp
  * CSE 332S
- * Studio Num:
- * Author:
+ * Studio Num: 2
+ * Author: Flora Lu
 */
 
 #include <iostream>
